@@ -1,0 +1,14 @@
+[
+  {
+    "estado":"aprobado",
+    "conteo":561
+  },
+  {
+    "estado":"pendiente",
+    "conteo":320
+  },
+  {
+    "estado":"rechazado",
+    "conteo":163
+  }
+]
