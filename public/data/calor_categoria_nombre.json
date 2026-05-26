@@ -1,0 +1,62 @@
+[
+  {
+    "categoria":"ancheta",
+    "nombre":"Ancheta Premium",
+    "conteo":63
+  },
+  {
+    "categoria":"ancheta",
+    "nombre":"Ancheta Romántica",
+    "conteo":57
+  },
+  {
+    "categoria":"ancheta",
+    "nombre":"Caja De Amor",
+    "conteo":79
+  },
+  {
+    "categoria":"ancheta",
+    "nombre":"Canasta Especial",
+    "conteo":66
+  },
+  {
+    "categoria":"flores",
+    "nombre":"Bouquet Mixto",
+    "conteo":62
+  },
+  {
+    "categoria":"flores",
+    "nombre":"Girasoles",
+    "conteo":71
+  },
+  {
+    "categoria":"flores",
+    "nombre":"Liliums Blancos",
+    "conteo":61
+  },
+  {
+    "categoria":"flores",
+    "nombre":"Rosas Rojas",
+    "conteo":60
+  },
+  {
+    "categoria":"peluche",
+    "nombre":"Conejo Gigante",
+    "conteo":87
+  },
+  {
+    "categoria":"peluche",
+    "nombre":"Oso De Peluche",
+    "conteo":67
+  },
+  {
+    "categoria":"peluche",
+    "nombre":"Panda Suave",
+    "conteo":71
+  },
+  {
+    "categoria":"peluche",
+    "nombre":"Unicornio",
+    "conteo":67
+  }
+]

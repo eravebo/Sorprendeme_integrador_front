@@ -99,6 +99,7 @@ export default function Admin() {
         <button className={`tab-btn ${tabActivo === 'productos' ? 'activo' : ''}`} onClick={function() { setTabActivo('productos'); }}>Productos</button>
         <button className={`tab-btn ${tabActivo === 'pedidos' ? 'activo' : ''}`} onClick={function() { setTabActivo('pedidos'); }}>Pedidos</button>
         <button className={`tab-btn ${tabActivo === 'usuarios' ? 'activo' : ''}`} onClick={function() { setTabActivo('usuarios'); }}>Usuarios</button>
+        <button className="tab-btn" onClick={function() { navigate('/dashboard'); }}>Dashboard</button>
       </div>
 
       {cargando && <p style={{ textAlign: 'center', padding: '2rem' }}>Cargando datos...</p>}

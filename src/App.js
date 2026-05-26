@@ -12,6 +12,7 @@ import Checkout from './pages/Checkout/Checkout';
 import Confirmacion from './pages/Confirmacion/Confirmacion';
 import MisPedidos from './pages/MisPedidos/MisPedidos';
 import Admin from './pages/Admin/Admin';
+import Dashboard from './pages/Dashboard/Dashboard';
 
 import './styles.css';
 
@@ -49,6 +50,7 @@ function PaginasPublicas() {
         <Route path="/mis-pedidos" element={
           <PrivateRoute><MisPedidos /></PrivateRoute>
         } />
+        <Route path="/dashboard" element={<Dashboard />} />
         <Route path="*" element={
           <div style={{ textAlign: 'center', padding: '5rem' }}>
             <h2>Pagina no encontrada</h2>
